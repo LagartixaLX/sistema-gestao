@@ -1,5 +1,7 @@
 {
   "name": "sistema-gestao",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
